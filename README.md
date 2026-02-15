@@ -48,9 +48,4 @@ Set auto-restart (Containers automatically restart after poweroff/reboot of kali
 **#sudo docker update --restart unless-stopped ecommerce_db**
 
 
-Follow us for more updates <br> 
-[INFOSEC FOLKS - LINKEDIN](https://www.linkedin.com/company/infosecfolks-global/) <br> 
-[INFOSEC FOLKS - LINKEDIN](https://www.linkedin.com/company/infosecfolks-telugu) <br> 
-[INFOSEC FOLKS - YOUTUBE](https://www.youtube.com/@infosecfolks-global/) <br> 
-[INFOSEC FOLKS Telugu - YOUTUBE](https://www.youtube.com/@InfosecFolks-Telugu/) <br>
 
