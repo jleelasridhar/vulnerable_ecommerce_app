@@ -137,7 +137,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <body>
     <header>
        <nav class="navbar navbar-expand-lg">
-            <a class="navbar-brand" href="index.php">INFOSEC FOLKS E-Commerce</a>
+            <a class="navbar-brand" href="index.php">E-Commerce</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
