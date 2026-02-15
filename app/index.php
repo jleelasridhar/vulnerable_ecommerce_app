@@ -66,7 +66,7 @@ session_start();
 <body>
     <header>
         <nav class="navbar navbar-expand-lg">
-            <a class="navbar-brand" href="index.php">INFOSEC FOLKS E-Commerce</a>
+            <a class="navbar-brand" href="index.php">E-Commerce</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -94,26 +94,8 @@ session_start();
     <div class="container content mt-5">
         <h2>Welcome to Vulnerable E-Commerce Web Application</h2>
         <p>This lab is designed for educational purposes, to help you understand how to discover and exploit vulnerabilities in real-world applications. Do not attempt these approaches on live applications hosted on the internet without proper consent.</p>
-        <p>This application is designed & maintained by "INFOSEC FOLKS" security community. You can find the source image on <a href="https://infosecfolks.org">INFOSEC FOLKS</a>.</p>
-        <div style="text-align: center;">
-            <img src="images/logo.jpg" alt="Logo" height="150" width="150" />
-        </div>
+        
     </div>
-
-    <footer>
-        <h5>Stay Connected</h5>
-        <div>
-            <a href="https://infosecfolks.org" target="_blank" style="margin: 0 10px; color: black;">
-                <i class="fas fa-globe fa-2x"></i>
-            </a>
-            <a href="https://www.linkedin.com/company/infosecfolks-global/" target="_blank" style="margin: 0 10px; color: black;">
-                <i class="fab fa-linkedin fa-2x"></i>
-            </a>
-            <a href="https://www.youtube.com/@infosecfolks-global" target="_blank" style="margin: 0 10px; color: black;">
-                <i class="fab fa-youtube fa-2x"></i>
-            </a>
-        </div>
-    </footer>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
